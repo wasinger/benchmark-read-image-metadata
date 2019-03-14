@@ -1,0 +1,8 @@
+{
+    "name": "wasinger/benchmark-read-image-metadata",
+    "require": {
+        "ext-exif": "*",
+        "ext-imagick": "*",
+        "imagine/imagine": "^1.2"
+    }
+}
